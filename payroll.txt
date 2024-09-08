@@ -1,0 +1,22 @@
+	La Consolacion College Tanauan
+			PAY SLIP
+------------------------------------
+Date			: 02/16/24
+
+Employee's Name	: James Mercado
+Job Position	: senior software engineer
+------------------------------------
+Earnings
+	Basic Income: 230000.0
+	Other Income: 0
+	Gross Income: 230000.0
+------------------------------------
+Net Income
+	SSS			: 900.0
+	PhilHealth	: 900.0
+	Pag-Ibig	: 100
+	Loans		: 0
+	Tax			: 41453.4
+------------------------------------
+Total deduction : 43353.4
+Take Home Pay	: 186646.6
